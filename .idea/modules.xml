@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/EjercicioEmpleadosII.iml" filepath="$PROJECT_DIR$/.idea/EjercicioEmpleadosII.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/RepoDirectorioCorporativo.iml" filepath="$PROJECT_DIR$/.idea/RepoDirectorioCorporativo.iml" />
+>>>>>>> 2f0bd60 (Commit2)
     </modules>
   </component>
 </project>
